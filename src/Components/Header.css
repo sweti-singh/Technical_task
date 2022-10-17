@@ -1,0 +1,20 @@
+.header {
+
+    font-family: arial;
+    font-size: 24px;
+    margin: 40px;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    background: rgb(9, 79, 170);
+    padding: 10px 0;
+    color: #fff;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 0;
+    margin-left: 0;
+    z-index: 3;
+}

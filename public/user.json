@@ -1,0 +1,69 @@
+{
+  "user": [
+    {
+      "username": "sweti",
+      "password": "123",
+      "name": "sweti singh",
+      "id": 1
+    },
+    {
+      "username": "neeraj",
+      "password": "456",
+      "name": "neeraj singh",
+      "id": 2
+    },
+    {
+      "username": "vandana",
+      "password": "789",
+      "name": "vandana singh",
+      "id": 3
+    },
+    {
+      "username": "aarti",
+      "password": "1256",
+      "id": 4
+    }
+  ],
+  "items": [
+    {
+      "img": "./Images/pic1.jpg",
+      "name": "moto",
+      "price": 10000,
+      "id": 1,
+      "count": 0,
+      "status": false
+    },
+    {
+      "img": "./Images/pic2.jpg",
+      "name": "samsung",
+      "price": 20000,
+      "id": 2,
+      "count": 0,
+      "status": false
+    },
+    {
+      "img": "./Images/pic3.jpg",
+      "name": "iphone",
+      "price": 50000,
+      "id": 3,
+      "count": 0,
+      "status": false
+    },
+    {
+      "img": "./Images/pic4.jpg",
+      "name": "redmi",
+      "price": 1000,
+      "id": 4,
+      "count": 0,
+      "status": false
+    },
+    {
+      "img": "./Images/pic5.jpeg",
+      "name": "poco",
+      "price": 13000,
+      "id": 5,
+      "count": 0,
+      "status": false
+    }
+  ]
+}
